@@ -11,7 +11,7 @@ My experience includes developing web applications, designing system architectur
 - ⛓️ **Exploring:** Blockchain, Web3, and Smart Contract Development
 - 🤖 **Workflow:** AI-assisted development and AI coding agents
 - 📂 **Portfolio:** [View My Profile](https://www.dimaaspryg.my.id/)
-- 📫 **Connect with me:** [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/dimas-prayogo1/))
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dimas-prayogo1/)
 
 ---
 
@@ -53,7 +53,7 @@ I'm open to opportunities, collaborations, and discussions related to software e
   <a href="https://github.com/dimasprayogox">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/dimas-prayogo1/)">
+  <a href="https://www.linkedin.com/in/dimas-prayogo1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
