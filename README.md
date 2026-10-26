@@ -1,6 +1,6 @@
 # Hi there, I'm Dimas Prayogo 👋
 
-### Software Engineer | Full-Stack Development | Blockchain & Web3
+### Software Engineer | Full-Stack Developer
 
 I'm an Informatics Engineering graduate with a strong interest in software engineering, application development, and system design. I enjoy turning ideas and requirements into reliable, maintainable, and user-focused software solutions.
 
@@ -10,8 +10,8 @@ My experience includes developing web applications, designing system architectur
 - 💻 **Tech stack:** JavaScript, TypeScript, React, Next.js, Node.js, and Laravel
 - ⛓️ **Exploring:** Blockchain, Web3, and Smart Contract Development
 - 🤖 **Workflow:** AI-assisted development and AI coding agents
-- 📂 **Portfolio:** [Explore my projects](https://github.com/dimasprayogox?tab=repositories)
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/)
+- 📂 **Portfolio:** [View My Profile](https://www.dimaaspryg.my.id/)
+- 📫 **Connect with me:** [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/dimas-prayogo1/))
 
 ---
 
@@ -19,7 +19,7 @@ My experience includes developing web applications, designing system architectur
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,cpp,solidity" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
@@ -29,35 +29,8 @@ My experience includes developing web applications, designing system architectur
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,git,github,docker,postman,vscode" alt="Databases and Development Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,git,github,docker,postman" alt="Databases and Development Tools" />
 </p>
-
-### Blockchain & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum,ipfs" alt="Blockchain Technologies" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### DecentraShare — Decentralized Digital File Sharing
-
-A web-based application that leverages Ethereum blockchain and IPFS to record and verify digital file ownership and integrity in a decentralized environment.
-
-**Tech Stack:** SvelteKit, TypeScript, Bun, Prisma ORM, PostgreSQL, Solidity, Ethereum, IPFS, MetaMask
-
-[View Repository](https://github.com/dimasprayogox)
-
-### Work Order — Computerized Maintenance Management System
-
-A web-based asset management and maintenance system developed during my internship at PT Marstech Global. The application includes asset management, work order processing, and role-based access control for different user roles.
-
-**Tech Stack:** Next.js, Express.js, Knex.js, MySQL
-
-[View Repository](https://github.com/dimasprayogox)
-
----
 
 ## 📊 GitHub Statistics
 
@@ -80,7 +53,7 @@ I'm open to opportunities, collaborations, and discussions related to software e
   <a href="https://github.com/dimasprayogox">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/dimas-prayogo1/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
